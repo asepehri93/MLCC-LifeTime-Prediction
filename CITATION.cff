@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Sepehrinezhad"
+  given-names: "Alireza"
+  orcid: "https://orcid.org/0009-0004-8293-0195"
+title: "MLCC-LifeTime-Prediction"
+version: 1.0.0
+doi: 10.5281/zenodo.7943453
+date-released: 2023-05-16
+url: "https://github.com/asepehri93/MLCC-LifeTime-Prediction"
