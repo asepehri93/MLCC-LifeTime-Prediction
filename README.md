@@ -18,7 +18,7 @@ The model is fine-tuned on the available experimental data and then further fine
 
 We present the flowchart for our machine learning approach in Figure 1.
 
-![Figure 1: Flowchart for our machine learning approach.](figure1.png)
+![Figure 1: Flowchart for our machine learning approach.](Figure1.svg)
 
 ## Equations
 
