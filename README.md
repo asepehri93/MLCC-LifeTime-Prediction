@@ -12,6 +12,7 @@ Our methodology involves two primary steps:
 2. **Development of the MLM:** We employ the eXtreme Gradient Boosting (XGBoost) method to develop a physics-based machine learning model (MLM). The model is designed to predict the lifetime of MLCCs accurately. The model is developed with two primary objectives:
 
     a) Improving prediction accuracy for test conditions with limited data.
+   
     b) Providing predictions for test conditions where no experimental data exists.
 
 The model is fine-tuned on the available experimental data and then further fine-tuned on an EM-generated dataset using shared voltage conditions. This approach allows the model to address the limitation of TPM's accuracy caused by limited availability of data.
