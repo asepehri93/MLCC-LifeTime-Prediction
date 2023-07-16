@@ -1,4 +1,4 @@
-# Improved Prediction for Failure Time of Multilayer Ceramic Capacitors
+# Improved Prediction for Failure Time of Multilayer Ceramic Capacitors (MLCCs): A Physics-based Machine Learning Approach
 [![DOI](https://zenodo.org/badge/625665396.svg)](https://zenodo.org/badge/latestdoi/625665396)
 
 This study introduces a novel machine learning model (MLM) developed using the eXtreme Gradient Boosting (XGBoost) method. The model is designed to predict the mean time to failure (MTTF) of multilayer ceramic capacitors (MLCCs) under various temperature and voltage conditions. Our approach aims to overcome the limitations of conventional models and provide a more accurate prediction of MLCCs' lifetime.
