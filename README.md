@@ -27,17 +27,14 @@ The equations for TPM and EM are as follows:
 
 TPM:
 
-ln⁡(t)=C(T)-ln⁡(sinh⁡((βE_app)/T) )
-
 $$ln(t) = C(T) - ln[sinh(\frac{\beta E_{app}}{T})]$$
 
-where N is the number of failures, and τ is the time constant.
 
 EM:
 
 $$\frac{t_1}{t_2} = (\frac{V_2}{V_1})^n.exp[\frac{E_a}{k_B}(\frac{1}{t_1}-\frac{1}{t_2})]$$
 
-where N is the number of failures, and λ is the failure rate.
+where t, V, T, n, $$k_B$$, $$E_a$$ are the lifetime of MLCCs, applied voltage, temperature, the electric-field acceleration factor, Boltzmann’s constant, and activation energy of mobility governing the degradation process, respectively.
 
 These equations represent the conventional models for predicting MTTF, which our MLM aims to improve upon.
 
