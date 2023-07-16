@@ -3,6 +3,8 @@
 
 This study introduces a novel machine learning model (MLM) developed using the eXtreme Gradient Boosting (XGBoost) method. The model is designed to predict the mean time to failure (MTTF) of multilayer ceramic capacitors (MLCCs) under various temperature and voltage conditions. Our approach aims to overcome the limitations of conventional models and provide a more accurate prediction of MLCCs' lifetime.
 
+This repository has been made publically available as part of the requirements for submissiont in APL-Machine learning. To cite our work, please use refer to the original paper or use the citation links provided in this repository.
+
 ## Methodology
 
 Our methodology involves two primary steps:
