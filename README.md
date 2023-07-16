@@ -32,8 +32,9 @@ $$\frac{dN}{dt} = -\frac{N}{\tau}$$
 where N is the number of failures, and τ is the time constant.
 
 EM:
+t_1/t_2 =(V_2/V_1 )^n exp[E_a/k_B  (1/T_1 -1/T_2 )]
 
-$$\frac{dN}{dt} = -\lambda N$$
+$$\frac{t_1}{t_2} = (\frac{V_2}{V_1}^n$$
 
 where N is the number of failures, and λ is the failure rate.
 
