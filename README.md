@@ -29,7 +29,7 @@ TPM:
 
 ln⁡(t)=C(T)-ln⁡(sinh⁡((βE_app)/T) )
 
-$$ln(t) = C(T) - ln[sinh(\frac{\Beta E_{app}}{T})]$$
+$$ln(t) = C(T) - ln[sinh(\frac{\beta E_{app}}{T})]$$
 
 where N is the number of failures, and τ is the time constant.
 
