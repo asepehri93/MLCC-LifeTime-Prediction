@@ -46,7 +46,7 @@ These equations represent the conventional models for predicting MTTF, which our
 Our MLM outperforms conventional models in predicting the MTTF of X7R MLCCs. We show the results in Figures 2 and 3, which display the RMSE and RMSPE performance of our model for each objective. 
 
 <div align="center">
-  <img src="resources/obj1.png" alt="Flowchart illustrating the machine learning approach used in this study." width="500px">
+  <img src="resources/obj1.png" alt="Flowchart illustrating the machine learning approach used in this study." width="600px">
 </div>
 
 
