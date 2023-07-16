@@ -34,7 +34,7 @@ where N is the number of failures, and τ is the time constant.
 EM:
 t_1/t_2 =(V_2/V_1 )^n exp[E_a/k_B  (1/T_1 -1/T_2 )]
 
-$$\frac{t_1}{t_2} = (\frac{V_2}{V_1}^n$$
+$$\frac{t_1}{t_2} = (\frac{V_2}{V_1})^n.exp[\frac{E_a}{k_B}(\frac{1}{t_1}-\frac{1}{t_2})]$$
 
 where N is the number of failures, and λ is the failure rate.
 
